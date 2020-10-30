@@ -1,2 +1,3 @@
-# pupil-core-pyav-extension
+# pupil-av
+
 Extended PyAV library for Pupil Core
